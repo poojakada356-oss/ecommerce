@@ -4,7 +4,7 @@ import { useParams } from "react-router-dom";
 import PdpSkeleton from "../Components/PdpSkeleton";
 import ProductReviews from "../Components/ProductReviews";
 import UseGetProductById from "../Hooks/UseGetProductById";
-import UseWishlistproduct from "../Hooks/UseWishlistproduct";
+import UseWishlistproduct from "../Hooks/UseWishlistProduct";
 import UseCartProduct from "../Hooks/UseCartProduct";
 
 const Pdp = () => {
